@@ -21,7 +21,7 @@ public class UT5FinalFranciscoCorunaSuarez {
     private int litrosVendidosMesActual98;
     private int litrosVendidosMesActual95;
     private int litrosVendidosMesActualDiesel;
-    private String direccion;
+    private String ubicacion;
 
         /**
          * @return the litrosVendidosMesActual98
@@ -69,14 +69,14 @@ public class UT5FinalFranciscoCorunaSuarez {
          * @return the direccion
          */
         public String getDireccion() {
-            return direccion;
+            return ubicacion;
         }
 
         /**
          * @param direccion the direccion to set
          */
         public void setDireccion(String direccion) {
-            this.direccion = direccion;
+            this.ubicacion = direccion;
         }
     }
     
