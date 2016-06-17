@@ -22,6 +22,62 @@ public class UT5FinalFranciscoCorunaSuarez {
     private int litrosVendidosMesActual95;
     private int litrosVendidosMesActualDiesel;
     private String direccion;
+
+        /**
+         * @return the litrosVendidosMesActual98
+         */
+        public int getLitrosVendidosMesActual98() {
+            return litrosVendidosMesActual98;
+        }
+
+        /**
+         * @param litrosVendidosMesActual98 the litrosVendidosMesActual98 to set
+         */
+        public void setLitrosVendidosMesActual98(int litrosVendidosMesActual98) {
+            this.litrosVendidosMesActual98 = litrosVendidosMesActual98;
+        }
+
+        /**
+         * @return the litrosVendidosMesActual95
+         */
+        public int getLitrosVendidosMesActual95() {
+            return litrosVendidosMesActual95;
+        }
+
+        /**
+         * @param litrosVendidosMesActual95 the litrosVendidosMesActual95 to set
+         */
+        public void setLitrosVendidosMesActual95(int litrosVendidosMesActual95) {
+            this.litrosVendidosMesActual95 = litrosVendidosMesActual95;
+        }
+
+        /**
+         * @return the litrosVendidosMesActualDiesel
+         */
+        public int getLitrosVendidosMesActualDiesel() {
+            return litrosVendidosMesActualDiesel;
+        }
+
+        /**
+         * @param litrosVendidosMesActualDiesel the litrosVendidosMesActualDiesel to set
+         */
+        public void setLitrosVendidosMesActualDiesel(int litrosVendidosMesActualDiesel) {
+            this.litrosVendidosMesActualDiesel = litrosVendidosMesActualDiesel;
+        }
+
+        /**
+         * @return the direccion
+         */
+        public String getDireccion() {
+            return direccion;
+        }
+
+        /**
+         * @param direccion the direccion to set
+         */
+        public void setDireccion(String direccion) {
+            this.direccion = direccion;
+        }
     }
     
 }
