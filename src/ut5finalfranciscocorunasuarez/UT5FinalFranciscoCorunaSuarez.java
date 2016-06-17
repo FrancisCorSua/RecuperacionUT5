@@ -18,7 +18,7 @@ public class UT5FinalFranciscoCorunaSuarez {
         // TODO code application logic here
     }
     public class Gasolinera {
-    private int litrosVendidosMesActual98;
+    private int litrosVendidosDe98;
     private int litrosVendidosMesActual95;
     private int litrosVendidosMesActualDiesel;
     private String ubicacion;
@@ -27,14 +27,14 @@ public class UT5FinalFranciscoCorunaSuarez {
          * @return the litrosVendidosMesActual98
          */
         public int getLitrosVendidosMesActual98() {
-            return litrosVendidosMesActual98;
+            return litrosVendidosDe98;
         }
 
         /**
          * @param litrosVendidosMesActual98 the litrosVendidosMesActual98 to set
          */
         public void setLitrosVendidosMesActual98(int litrosVendidosMesActual98) {
-            this.litrosVendidosMesActual98 = litrosVendidosMesActual98;
+            this.litrosVendidosDe98 = litrosVendidosMesActual98;
         }
 
         /**
